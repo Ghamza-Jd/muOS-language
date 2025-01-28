@@ -59,11 +59,11 @@
     "No Archives Found": "لم يتم العثور على أرشيفات"
   },
   "muxassign": {
-    "ASSIGN": "ASSIGN",
-    "Assigned to directory": "Assigned to directory",
-    "Assigned to file": "Assigned to file",
-    "No Cores Found…": "No Cores Found…",
-    "This is where you can assign a core or external emulator to content": "This is where you can assign a core or external emulator to content"
+    "ASSIGN": "عيّن",
+    "Assigned to directory": "تم تعيينه إلى الدليل",
+    "Assigned to file": "تم تعيينه إلى الملف",
+    "No Cores Found…": "لم يتم العثور على الأنوية…",
+    "This is where you can assign a core or external emulator to content": "هنا يمكنك تعيين نواة أو محاكي خارجي للمحتوى"
   },
   "muxcharge": {
     "Booting System - Please Wait…": "Booting System - Please Wait…",
