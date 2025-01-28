@@ -53,10 +53,10 @@
     "Task Toolkit": "أداة المهام"
   },
   "muxarchive": {
-    "ARCHIVE MANAGER": "ARCHIVE MANAGER",
-    "Archive items can be found and installed here - Save games and states, updates, themes etc": "Archive items can be found and installed here - Save games and states, updates, themes etc",
-    "INSTALLED": "INSTALLED",
-    "No Archives Found": "No Archives Found"
+    "ARCHIVE MANAGER": "مدير الأرشيف",
+    "Archive items can be found and installed here - Save games and states, updates, themes etc": "يمكن العثور على عناصر الأرشيف وتثبيتها هنا - مثل حفظ الألعاب والحالات، التحديثات، السمات، إلخ",
+    "INSTALLED": "مثبّت",
+    "No Archives Found": "لم يتم العثور على أرشيفات"
   },
   "muxassign": {
     "ASSIGN": "ASSIGN",
