@@ -66,10 +66,10 @@
     "This is where you can assign a core or external emulator to content": "هنا يمكنك تعيين نواة أو محاكي خارجي للمحتوى"
   },
   "muxcharge": {
-    "Booting System - Please Wait…": "Booting System - Please Wait…",
-    "Capacity": "Capacity",
-    "Press POWER button to continue booting…": "Press POWER button to continue booting…",
-    "Voltage": "Voltage"
+    "Booting System - Please Wait…": "جاري تمهيد النظام - يرجى الانتظار…",
+    "Capacity": "السعة",
+    "Press POWER button to continue booting…": "اضغط على زر الطاقة للاستمرار في التمهيد…",
+    "Voltage": "الجهد الكهربائي"
   },
   "muxcollect": {
     "COLLECTIONS": "COLLECTIONS",
